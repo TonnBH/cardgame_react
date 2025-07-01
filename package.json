@@ -1,4 +1,26 @@
 {
+  "name": "cardgame_react",
+  "version": "1.0.0",
+  "description": "Card Game React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonnBH/cardgame_react.git"
+  },
+  "keywords": [
+    "game",
+    "card",
+    "on-line"
+  ],
+  "author": "Tonn Alvarenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonnBH/cardgame_react/issues"
+  },
+  "homepage": "https://github.com/TonnBH/cardgame_react#readme",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
